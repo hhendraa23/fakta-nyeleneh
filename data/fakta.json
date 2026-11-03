@@ -1,0 +1,12 @@
+{
+  "judul": "FAKTA NYELENEH",
+  "penutup": "Follow untuk fakta nyeleneh lainnya!",
+  "musik": "",
+  "fakta": [
+    { "teks": "Gurita punya tiga jantung dan darahnya berwarna biru.", "detik": 6, "warna": "#E63946" },
+    { "teks": "Pisang secara botani termasuk buah beri, sedangkan stroberi bukan.", "detik": 6, "warna": "#F4A261" },
+    { "teks": "Satu hari di planet Venus lebih panjang daripada satu tahunnya.", "detik": 6, "warna": "#2A9D8F" },
+    { "teks": "Wombat menghasilkan kotoran berbentuk kubus.", "detik": 6, "warna": "#3A86FF" },
+    { "teks": "Madu hampir tidak pernah basi jika disimpan dengan benar.", "detik": 6, "warna": "#8338EC" }
+  ]
+}
